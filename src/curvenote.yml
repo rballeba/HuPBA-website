@@ -1,0 +1,19 @@
+version: 1
+project:
+  title: HuPBA
+site:
+  title: HuPBA Knowledge base
+  projects:
+    - path: .
+      slug: 'knowledge'
+  nav:
+    - title: Upcoming seminars
+      url: /knowledge/upcoming-seminars
+    - title: Previous seminars
+      url: /knowledge/previous-seminars
+  actions:
+    - title: HuPBA website
+      url: https://sergioescalera.com/students
+  domains: []
+  logo: public/images/hupba_logo.png
+  logoText: HuPBA
